@@ -32,3 +32,6 @@
 
 + **qbittorrent**
     https://raw.githubusercontent.com/lollomante/zimaboard-casaos-config/refs/heads/main/icons/qbittorrent/qbittorrent.jpeg
+
++ **portainer**
+    https://raw.githubusercontent.com/lollomante/zimaboard-casaos-config/refs/heads/main/icons/portainer/portainer-dark.png
