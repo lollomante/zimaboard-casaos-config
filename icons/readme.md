@@ -38,3 +38,6 @@
 
 + **floatplane**
     https://raw.githubusercontent.com/lollomante/zimaboard-casaos-config/refs/heads/main/icons/floatplane-downloader/floatplane.png
+
++ **apache**
+  https://raw.githubusercontent.com/lollomante/zimaboard-casaos-config/refs/heads/main/icons/apache/Apache.png
