@@ -41,3 +41,6 @@
 
 + **apache**
   https://raw.githubusercontent.com/lollomante/zimaboard-casaos-config/refs/heads/main/icons/apache/Apache.png
+
++ **navidrome**
+  https://raw.githubusercontent.com/lollomante/zimaboard-casaos-config/refs/heads/main/icons/navidrome/navidrome.png
